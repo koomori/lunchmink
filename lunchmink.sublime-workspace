@@ -1,0 +1,1675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Au",
+				"Auth::user\t(accountmain.blade.php)"
+			],
+			[
+				"User",
+				"UserController\t(UserController.php)"
+			],
+			[
+				"Food",
+				"FoodOption"
+			],
+			[
+				"Re",
+				"RegistrationController"
+			],
+			[
+				"R",
+				"Requests\t(RegistrationRequest.php)"
+			],
+			[
+				"n",
+				"namespace\t(PostsController.php)"
+			],
+			[
+				"class",
+				"class\tPHP Class"
+			],
+			[
+				"P",
+				"PDOException\t(Connection.php)"
+			],
+			[
+				"in",
+				"index.view.php"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"showL",
+				"showListOfImagesForThatYear"
+			],
+			[
+				"back-to-",
+				"back-to-years"
+			],
+			[
+				"error",
+				"errorFeedback"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"list-of-",
+				"list-of-years\t(request.js)"
+			],
+			[
+				"year",
+				"year-link\t(request.js)"
+			],
+			[
+				"main",
+				"mainContent\t(index.html)"
+			],
+			[
+				"image",
+				"imageDescription"
+			],
+			[
+				"getI",
+				"getImageDescription"
+			],
+			[
+				"get",
+				"getImageTitle\t(NasaImageClass.js)"
+			],
+			[
+				"getY",
+				"getImageYear"
+			],
+			[
+				"pa",
+				"painting"
+			],
+			[
+				"G",
+				"googlecode"
+			],
+			[
+				"ro",
+				"renowned"
+			],
+			[
+				"margin",
+				"margin-bottom\t(_base.scss)"
+			],
+			[
+				"socialme",
+				"socialmediaicons\t(index.html)"
+			],
+			[
+				"grunt-contrib",
+				"grunt-contrib-uglify\t(package.json)"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"nav",
+				"navigation\t(index.html)"
+			],
+			[
+				"a",
+				"arkgreen"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"border-rad",
+				"border-top-left-radius"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"op",
+				"optimizeSpeed"
+			],
+			[
+				"text-",
+				"text-rendering"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"talbe",
+				"table-cell"
+			],
+			[
+				"me",
+				"message-box"
+			],
+			[
+				"i",
+				"icon_sprites_25.png\tw:25 h:325"
+			],
+			[
+				"p",
+				"sm_philly_banner.jpg\tw:485 h:175"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"sprite",
+				"shipSpriteSheet"
+			],
+			[
+				"backg",
+				"backgroundImage"
+			],
+			[
+				"loadingBar",
+				"loadingBarContainer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/accountmain.blade.php",
+			"settings":
+			{
+				"buffer_size": 4489,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 567,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/useraccount.blade.php",
+			"settings":
+			{
+				"buffer_size": 1466,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/vue-user.js",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 950,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 749,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"PHPUnit: Run"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"make:cont",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make:provider",
+				"Laravel Artisan 5: Make:Provider"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Class"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Rea",
+				"ReadmePlease"
+			],
+			[
+				"Package Co",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"package R",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"redm",
+				"ReadmePlease"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"red",
+				"ReadmePlease"
+			],
+			[
+				"redme",
+				"ReadmePlease"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"h",
+				"Side Bar: Refresh"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"text",
+				"Boxy Theme: Extras"
+			],
+			[
+				"",
+				"Boxy Theme: Activation"
+			],
+			[
+				"Package Control: A",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 133.0,
+		"history":
+		[
+			"make:provider",
+			"Task.php",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Barbara/lunchmink",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers",
+		"/C/Users/Barbara/lunchmink/public",
+		"/C/Users/Barbara/lunchmink/public/js",
+		"/C/Users/Barbara/lunchmink/resources",
+		"/C/Users/Barbara/lunchmink/resources/assets",
+		"/C/Users/Barbara/lunchmink/resources/assets/js",
+		"/C/Users/Barbara/lunchmink/resources/assets/js/components",
+		"/C/Users/Barbara/lunchmink/resources/assets/sass",
+		"/C/Users/Barbara/lunchmink/resources/views",
+		"/C/Users/Barbara/lunchmink/resources/views/layouts",
+		"/C/Users/Barbara/lunchmink/routes"
+	],
+	"file_history":
+	[
+		"/C/Users/Barbara/lunchmink/resources/assets/sass/custom.scss",
+		"/C/Users/Barbara/lunchmink/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/C/Users/Barbara/lunchmink/resources/assets/sass/_variables.scss",
+		"/C/Users/Barbara/lunchmink/public/js/app.js",
+		"/C/Users/Barbara/lunchmink/resources/views/index.blade.php",
+		"/C/Users/Barbara/lunchmink/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap/scss/_reboot.scss",
+		"/C/Users/Barbara/lunchmink/resources/assets/js/app.js",
+		"/C/Users/Barbara/lunchmink/resources/views/partials/headeraccount.blade.php",
+		"/C/Users/Barbara/lunchmink/resources/views/layouts/app.blade.php",
+		"/C/Users/Barbara/lunchmink/resources/views/layouts/useraccount.blade.php",
+		"/C/Users/Barbara/lunchmink/resources/views/partials/header.blade.php",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap/scss/_transitions.scss",
+		"/C/Users/Barbara/lunchmink/public/css/app.css",
+		"/C/Users/Barbara/lunchmink/package.json",
+		"/C/Users/Barbara/lunchmink/node_modules/jquery/dist/jquery.js",
+		"/C/Users/Barbara/lunchmink/public/js/jquery.min.js",
+		"/C/Users/Barbara/lunchmink/webpack.mix.js",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap/scss/_custom-forms.scss",
+		"/C/Users/Barbara/lunchmink/resources/assets/sass/app.scss",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap/scss/_forms.scss",
+		"/C/Users/Barbara/lunchmink/resources/views/foods/foodlist.blade.php",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/UserController.php",
+		"/C/Users/Barbara/lunchmink/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_labels.scss",
+		"/C/Users/Barbara/lunchmink/resources/views/foods/menucategories.blade.php",
+		"/C/Users/Barbara/lunchmink/resources/views/partials/nav.blade.php",
+		"/C/Users/Barbara/lunchmink/database/factories/ModelFactory.php",
+		"/C/Users/Barbara/lunchmink/node_modules/nan/doc/node_misc.md",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_navs.scss",
+		"/C/Users/Barbara/lunchmink/routes/web.php",
+		"/C/Users/Barbara/lunchmink/resources/views/accountmain.blade.php",
+		"/C/Users/Barbara/lunchmink/resources/views/home.blade.php",
+		"/C/Users/Barbara/lunchmink/storage/app/public/js/bootstrap.js",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap/dist/js/bootstrap.js",
+		"/C/Users/Barbara/lunchmink/resources/assets/js/newAsset.js",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_navbar.scss",
+		"/C/Users/Barbara/lunchmink/node_modules/bootstrap/scss/mixins/_navbar-align.scss",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/HomeController.php",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/Barbara/lunchmink/config/app.php",
+		"/C/Users/Barbara/lunchmink/.env",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/FoodController.php",
+		"/C/Users/Barbara/lunchmink/resources/views/layout.blade.php",
+		"/C/Users/Barbara/lunchmink/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/C/Users/Barbara/lunchmink/resources/assets/js/bootstrap.js",
+		"/C/Users/Barbara/lunchmink/resources/views/auth/register.blade.php",
+		"/C/Users/Barbara/lunchmink/resources/views/foods/foodcategory.blade.php",
+		"/C/Users/Barbara/lunchmink/resources/views/partials/onechoiceside.blade.php",
+		"/C/Users/Barbara/lunchmink/resources/views/foods/fooditem.blade.php",
+		"/C/Users/Barbara/lunchmink/app/FoodOption.php",
+		"/C/Users/Barbara/lunchmink/database/seeds/FoodOptionsTableSeeder.php",
+		"/C/Users/Barbara/lunchmink/database/seeds/FoodsTableSeeder.php",
+		"/C/Users/Barbara/lunchmink/database/migrations/2017_06_12_183205_create_foods_table.php",
+		"/C/Users/Barbara/lunchmink/resources/views/partials/multiplesides.blade.php",
+		"/C/Users/Barbara/lunchmink/app/Category.php",
+		"/C/Users/Barbara/lunchmink/database/migrations/2017_06_12_195921_create_food_options_table.php",
+		"/C/Users/Barbara/lunchmink/database/seeds/CategoriesTableSeeder.php",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/FoodOptionController.php",
+		"/C/Users/Barbara/lunchmink/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Barbara/lunchmink/tests/Feature/TrueTest.php",
+		"/C/Users/Barbara/lunchmink/tests/Unit/ExampleTest.php",
+		"/C/Users/Barbara/lunchmink/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/C/Users/Barbara/lunchmink/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/stubs/seeder.stub",
+		"/C/Users/Barbara/lunchmink/composer.json",
+		"/C/Users/Barbara/lunchmink/database/seeds/FoodOptionsSeeder.php",
+		"/C/Users/Barbara/lunchmink/vendor/laracasts/generators/src/stubs/seed.stub",
+		"/C/Users/Barbara/lunchmink/phpunit.xml",
+		"/C/Users/Barbara/lunchmink/database/seeds/UsersTableSeeder.php",
+		"/C/Users/Barbara/lunchmink/resources/views/partials/mainfooditem.blade.php",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/CategoryController.php",
+		"/C/Users/Barbara/lunchmink/app/Food.php",
+		"/C/Users/Barbara/AppData/Roaming/Sublime Text 3/Packages/User/SimplePHPUnit.sublime-settings",
+		"/C/Users/Barbara/lunchmink/resources/views/foods/fooditemsandwich.blade.php",
+		"/C/Users/Barbara/lunchmink/app/User.php",
+		"/C/Users/Barbara/lunchmink/app/Order.php",
+		"/C/Users/Barbara/lunchmink/app/DeliveryLocation.php",
+		"/C/Users/Barbara/lunchmink/app/Discount.php",
+		"/C/Users/Barbara/lunchmink/database/migrations/2017_06_12_183318_create_categories_table.php",
+		"/C/Users/Barbara/lunchmink/database/migrations/2017_06_12_183404_create_orders_table.php",
+		"/C/Users/Barbara/lunchmink/database/migrations/2017_06_12_200723_create_order_foods_table.php",
+		"/C/Users/Barbara/lunchmink/database/migrations/2017_06_12_205028_create_delivery_locations_table.php",
+		"/C/Users/Barbara/lunchmink/database/migrations/2017_06_12_205558_create_discounts_table.php",
+		"/C/Users/Barbara/lunchmink/app/Providers/AppServiceProvider.php",
+		"/C/Users/Barbara/lunchmink/app/OrderFood.php",
+		"/C/Users/Barbara/lunchmink/app/Http/Controllers/OrderFoodController.php",
+		"/C/Users/Barbara/lunchmink/app/OrderItem.php",
+		"/C/Users/Barbara/lunchmink/resources/views/partials/footer.blade.php",
+		"/C/Users/Barbara/blog2/.env",
+		"/C/Users/Barbara/blog2/database/migrations/2017_06_07_161707_create_tasks_table.php",
+		"/C/Users/Barbara/posts/app/Http/Controllers/TagsController.php",
+		"/C/Users/Barbara/posts/app/Tag.php",
+		"/C/Users/Barbara/posts/database/migrations/2017_06_03_201503_create_tags_table.php",
+		"/C/Users/Barbara/posts/app/Http/Requests/RegistrationRequest.php",
+		"/C/Users/Barbara/posts/app/Http/Controllers/RegistrationController.php",
+		"/C/Users/Barbara/posts/app/Http/Controllers/PostsController.php",
+		"/C/Users/Barbara/posts/resources/views/layout.blade.php",
+		"/C/Users/Barbara/posts/resources/views/partials/flash.blade.php",
+		"/C/Users/Barbara/posts/resources/assets/sass/app.scss",
+		"/C/Users/Barbara/posts/config/mail.php",
+		"/C/Users/Barbara/posts/app/Mail/WelcomeAgain.php",
+		"/C/Users/Barbara/posts/resources/views/vendor/mail/html/themes/laracasts.css",
+		"/C/Users/Barbara/posts/config/app.php",
+		"/C/Users/Barbara/posts/resources/views/emails/welcome-again.blade.php",
+		"/C/Users/Barbara/posts/resources/views/emails/welcome.blade.php",
+		"/C/Users/Barbara/posts/app/Mail/Welcome.php",
+		"/C/Users/Barbara/posts/.env",
+		"/C/Users/Barbara/posts/routes/web.php",
+		"/C/Users/Barbara/posts/app/Billing/Stripe.php",
+		"/C/Users/Barbara/posts/app/Redis.php",
+		"/C/Users/Barbara/posts/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php",
+		"/C/Users/Barbara/posts/app/Providers/AppServiceProvider.php",
+		"/C/Users/Barbara/posts/app/Repositories/Posts.php",
+		"/C/Users/Barbara/posts/app/Post.php",
+		"/C/Users/Barbara/posts/tests/Feature/ExampleTest.php",
+		"/C/Users/Barbara/posts/tests/Unit/ExampleTest.php",
+		"/C/Users/Barbara/posts/database/factories/ModelFactory.php",
+		"/C/Users/Barbara/posts/phpunit.xml",
+		"/C/Users/Barbara/posts/resources/views/sessions/create.blade.php",
+		"/C/Users/Barbara/posts/resources/views/partials/sidebar.blade.php",
+		"/C/Users/Barbara/posts/app/Http/Controllers/SessionsController.php",
+		"/C/Users/Barbara/posts/resources/views/partials/nav.blade.php",
+		"/C/Users/Barbara/posts/resources/views/posts/post.blade.php",
+		"/C/Users/Barbara/posts/app/User.php",
+		"/C/Users/Barbara/posts/resources/views/posts/create.blade.php",
+		"/C/Users/Barbara/posts/resources/views/registration/create.blade.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Barbara\\lunchmink",
+			"C:\\Users\\Barbara\\lunchmink\\node_modules",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"v-model",
+			"border",
+			"input",
+			"label",
+			"randomElements(",
+			"numberBetween",
+			"randomElement",
+			"tinyint",
+			"Fonts",
+			"list-style-type",
+			"list-",
+			"bootstrap.scss",
+			"exCollapsingNavbar",
+			"Home",
+			"$grid-float-breakpoint",
+			".navbar-left",
+			".nav-left",
+			"container",
+			"topping",
+			"'sub_category_id' => 9",
+			"'sub_category_id' => 5",
+			"'sub_category_id' => 4",
+			"'sub_category_id' => 7",
+			"'sub_category_id' => 8",
+			"'sub_category_id' => 6",
+			"option",
+			"option\n",
+			"option",
+			"option_name",
+			"foodOptions",
+			"option",
+			"section",
+			"();\n",
+			"tag",
+			"}\n",
+			"Tag",
+			"faker",
+			"request",
+			"month",
+			"monthname",
+			"email",
+			"login",
+			"Name",
+			"name",
+			"p",
+			"title",
+			"required",
+			"<h3>lsfjlsjflsj;</h3>",
+			">\n",
+			"endforeach",
+			"name",
+			"  \n",
+			"name",
+			"hello",
+			"tabTrigger",
+			"  <",
+			"Laravel",
+			"Acme\\",
+			"description",
+			"to",
+			" $",
+			"statement",
+			"curly",
+			"isComplete",
+			"isComplete()",
+			"isComplete",
+			"()",
+			"isComplete",
+			"passesdIn",
+			"tobedumped",
+			"database",
+			"name",
+			"x",
+			"name",
+			"entity",
+			"person",
+			"Mon\nWed\nTues\nThurs\nFriday",
+			"background",
+			"repeat",
+			".full-width",
+			"showBigImage",
+			"image-description",
+			"backToImageList",
+			"showListOfImages",
+			"backToImageList",
+			"event",
+			"paragraph",
+			"'p'",
+			"javascript",
+			"showlistofImages",
+			"paragraphDescription",
+			"showListOfImages",
+			"paragraphDescription",
+			"chooseYearMessage",
+			"imageDescription",
+			"showListOfImages",
+			"inject",
+			"displayImageYears",
+			"showListOfImages",
+			"addShowListOfImagesEventToYearButton",
+			"appendHTML",
+			"showListOfImagesForThatYear",
+			"appendHTML",
+			"appendhtml",
+			"append",
+			"loadingImage",
+			"showOptions",
+			"item",
+			"imagesItem",
+			"item",
+			"href",
+			"tabindex",
+			"place",
+			"minnesota-place",
+			"locationName",
+			"tabindex",
+			"minnesota-place",
+			"place",
+			"color",
+			"12",
+			"gradient",
+			"backToImageList",
+			"locationName",
+			"date",
+			"showListOfImages",
+			"showBigImage",
+			"showBig",
+			"backToLocations"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"= ",
+			"appendHTML",
+			"locationData",
+			"allNasaLocationImages",
+			"imageYear",
+			"minnesota-place",
+			"showOptions",
+			"terminus",
+			"footer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/accountmain.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								952
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1005,
+										1006
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										902,
+										903
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 136.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/assets/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								567,
+								567
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layouts/useraccount.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1448,
+								1448
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1441,
+										1447
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1396,
+										1402
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/js/vue-user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										660,
+										661
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										654,
+										655
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								672
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										745,
+										746
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										350,
+										351
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 110.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/builds/psr-2.sublime-build",
+	"project": "lunchmink.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"custom.scss",
+				"resources\\assets\\sass\\custom.scss"
+			],
+			[
+				"reboot",
+				"node_modules\\bootstrap\\scss\\_reboot.scss"
+			],
+			[
+				"jq",
+				"node_modules\\jquery\\dist\\jquery.js"
+			],
+			[
+				"jquery",
+				"public\\js\\jquery.min.js"
+			],
+			[
+				"label",
+				"node_modules\\bootstrap-sass\\assets\\stylesheets\\bootstrap\\_labels.scss"
+			],
+			[
+				"bootform",
+				"node_modules\\bootstrap\\scss\\_forms.scss"
+			],
+			[
+				"bootstrapform",
+				"node_modules\\bootstrap\\scss\\_custom-forms.scss"
+			],
+			[
+				"node_",
+				"node_modules\\nan\\doc\\node_misc.md"
+			],
+			[
+				"boot",
+				"node_modules\\bootstrap\\dist\\js\\bootstrap.js"
+			],
+			[
+				"node_modules/bootstrap/dist/js/bootstrap.js",
+				"node_modules\\bootstrap\\dist\\js\\bootstrap.js"
+			],
+			[
+				"node_modules/transitions",
+				"node_modules\\bootstrap\\scss\\_transitions.scss"
+			],
+			[
+				"nav",
+				"node_modules\\bootstrap-sass\\assets\\stylesheets\\bootstrap\\_navbar.scss"
+			],
+			[
+				"nav.sc",
+				"node_modules\\bootstrap\\scss\\mixins\\_navbar-align.scss"
+			],
+			[
+				"bootstrap-sass/nav",
+				"node_modules\\bootstrap-sass\\assets\\stylesheets\\bootstrap\\_navs.scss"
+			],
+			[
+				"node_modules/bootstrap/scss/r",
+				"node_modules\\bootstrap\\scss\\_reboot.scss"
+			],
+			[
+				"registeru",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"seeds",
+				"vendor\\laracasts\\generators\\src\\stubs\\seed.stub"
+			],
+			[
+				"seed",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Seeds\\stubs\\seeder.stub"
+			],
+			[
+				"seeder",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Seeds\\stubs\\seeder.stub"
+			],
+			[
+				"",
+				"app\\Http\\Controllers\\FoodController.php"
+			],
+			[
+				"rw",
+				"routes\\web.php"
+			],
+			[
+				"rv/m",
+				"resources\\views\\foods\\menucategories.blade.php"
+			],
+			[
+				"rwe",
+				"routes\\web.php"
+			],
+			[
+				"app/p",
+				"app\\Post.php"
+			],
+			[
+				"create_c",
+				"database\\migrations\\2017_05_29_181743_create_comments_table.php"
+			],
+			[
+				"create_p",
+				"database\\migrations\\2017_05_28_185357_create_posts_table.php"
+			],
+			[
+				"hhom",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"posts",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"artisan",
+				"artisan"
+			],
+			[
+				"database/mi",
+				"database\\migrations\\2017_05_22_193558_create_tasks_table.php"
+			],
+			[
+				"view/w",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"v/w",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"rweb",
+				"routes\\web.php"
+			],
+			[
+				"spot",
+				"spotlight.htm"
+			],
+			[
+				"i",
+				"index.htm"
+			],
+			[
+				"er",
+				"Chapter_08\\08_03\\border-radius.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\nasaimages\\scripts\\nasaimages.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "main",
+		"selected_items":
+		[
+			[
+				"main",
+				"mainContent"
+			],
+			[
+				"hh",
+				"homeHeader"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

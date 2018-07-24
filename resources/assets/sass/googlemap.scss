@@ -1,0 +1,114 @@
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+
+      #description {
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+      }
+
+      #infowindow-content .title {
+        font-weight: bold;
+      }
+
+      #infowindow-content {
+        display: none;
+      }
+
+      #map #infowindow-content {
+        display: inline;
+      }
+
+      .pac-card {
+        margin: 10px 10px 0 0;
+        border-radius: 2px 0 0 2px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        outline: none;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        background-color: #fff;
+        font-family: Roboto;
+      }
+
+      #pac-container {
+        padding-bottom: 12px;
+        margin-right: 12px;
+      }
+
+      .pac-controls {
+        display: inline-block;
+        padding: 5px 11px;
+      }
+
+      .pac-controls label {
+        font-family: Roboto;
+        font-size: 12px;
+        font-weight: 300;
+      }
+
+    /* in #pac-input the important! is to override the inline styling
+    of the google map input box that put it off to the right 
+    and at the top of the form, not allowing it to
+    be fully seen on small screen sizes */
+    
+      #pac-input {
+        background-color: #fff;
+        font-family: Roboto;
+        font-size: 1.2rem;
+        font-weight: 300;
+        left:0 !important;
+        top: 50px !important;
+        padding: 0 11px 0 13px;
+        text-overflow: ellipsis;
+        width: 250px;
+        z-index: 100;
+        border: 4px solid $brand-light;
+        line-height: 2rem;
+      }
+
+      #pac-input:focus {
+        border-color: #4d90fe;
+      }
+
+      #title {
+        color: #fff;
+        background-color: #4d90fe;
+        font-size: 25px;
+        font-weight: 500;
+        padding: 6px 12px;
+      }
+      #target {
+        width: 345px;
+      }
+      #delivery-location-form
+      {
+        padding:0;
+        margin:0;
+        width: 100%;
+      }
+
+      #current-location, #delivery-location-input, #no-delivery-location, #step-2-delivery-location, #delivery-location-form{
+        display: none;
+      }
+      
+      #delivery_location_instructions {
+       
+      }
+
+      #delivery-location-input:focus {
+        outline: none;
+      }
+
+      #showing-map {
+        margin-top: 20px;
+        height: 400px;
+        width: 100%;
+      }
+
+      #map {
+        width: 100%;
+        height: 100%;
+      }
+
+  
+

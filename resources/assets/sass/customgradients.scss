@@ -1,0 +1,174 @@
+.button-custom-gradient-large {
+    font-size: 1.5rem;
+    font-family: $btn-font;
+    color: $brand-dark;
+    display: inline-block;
+    border: 10px solid $brand-dark;
+    cursor: pointer;
+    padding: .5rem;
+    margin-bottom: 1rem;
+    @include gradient-vertical($gradient-button-light, $gradient-button-dark, 0%, 100%);
+}
+
+.button-custom-gradient-large:hover {
+    color: $brand-off-white;
+    @include gradient-vertical($brand-bright, $brand-dark, 0%, 100%);
+  }
+
+.button-custom-gradient-medium {
+    font-size: 1.2rem;
+    font-family: $btn-font;
+    color: $brand-dark;
+    display: inline-block;
+    border: 10px solid $brand-dark;
+    cursor: pointer;
+    padding: .4rem;
+    @include gradient-vertical($gradient-button-light, $gradient-button-dark, 0%, 100%);
+}
+
+a.button-custom-gradient-wide, a.button-custom-gradient-wide:link {
+    font-size: 1.2rem;
+    display: block;
+    font-family: $btn-font;
+    color: $brand-dark;
+    cursor: pointer;
+    padding: .4rem;
+    @include gradient-vertical($gradient-button-light, $gradient-button-dark, 0%, 100%);
+}
+
+a.button-custom-gradient-wide:hover {
+    font-size: 1.2rem;
+    display: block;
+    font-family: $btn-font;
+    color: $brand-off-white;
+    cursor: pointer;
+    padding: .4rem;
+    @include gradient-vertical($brand-bright, $brand-dark, 0%, 100%);
+}
+
+a.button-custom-gradient-small, button.button-custom-gradient-small, a.button-custom-gradient-small:link, button.button-custom-gradient-small:link, a.button-custom-gradient-small:visited, button.button-custom-gradient-small:visited {
+  font-size: 1rem;
+  font-family: $btn-font;
+  color: $brand-dark;
+  display: inline-block;
+  border: 3px solid $brand-dark;
+  cursor: pointer;
+  padding: .5rem;
+  word-wrap: break-word;
+  margin-bottom: 0.5rem;
+  background-color: $gradient-button-dark;
+  @include gradient-vertical($gradient-button-light, $gradient-button-dark, 0%, 100%);
+}
+
+div.button-custom-gradient-small {
+  font-size: 1rem;
+  font-family: $btn-font;
+  color: $brand-dark;
+  border: 3px solid $brand-dark;
+  cursor: pointer;
+  padding: .5rem;
+  word-wrap: break-word;
+  margin-bottom: 0.5rem;
+  background-color: $gradient-button-dark;
+  @include gradient-vertical($gradient-button-light, $gradient-button-dark, 0%, 100%);
+}
+
+div.button-custom-gradient-small:hover {
+  font-size: 1rem;
+  font-family: $btn-font;
+  color: $white;
+  border: 3px solid $brand-dark;
+  cursor: pointer;
+  padding: .5rem;
+  word-wrap: break-word;
+  margin-bottom: 0.5rem;
+  background-color: $brand-dark;
+  @include gradient-vertical($brand-bright, $brand-dark, 0%, 100%);
+}
+
+a.button-custom-gradient-small:hover, button.button-custom-gradient-small:hover {
+    color: $brand-off-white;
+    background-color: $brand-dark;
+    @include gradient-vertical($brand-bright, $brand-dark, 0%, 100%);
+}
+
+/* for the discount buttons */
+
+a.button-custom-gradient {
+  color: $brand-light;
+ letter-spacing: .04em;
+}
+
+a.button-custom-gradient:link {
+
+    font-family: $logo-font;
+    color: $brand-light ;
+    border: none;
+    cursor: pointer;
+    padding: .5rem;
+    word-wrap: break-word;
+    @include gradient-vertical($gradient-button-light, $gradient-button-dark, 0%, 100%);
+}
+
+a.button-custom-gradient:hover {
+
+  font-family: $logo-font;
+  color: $brand-off-white; 
+  border: none;
+  cursor: pointer;
+  padding: .5rem;
+  word-wrap: break-word;
+  @include gradient-vertical($brand-bright, $brand-dark, 0%, 100%);
+}
+
+.button-custom-gradient-disabled {
+  font-size: 1rem;
+  font-family: $btn-font;
+  color: $gray-dark;
+  border: 3px solid $gray;
+  cursor: default;
+  padding: .5rem;
+  text-align: center;
+  margin-bottom: 20px;
+  opacity: 0.7;
+  word-wrap: break-word;
+  @include gradient-vertical($gray-lightest, $gray-lighter, 0%, 100%);
+}
+.no-border-top{
+  border-top: none;
+}
+a:focus, a:hover {
+  color: $white;
+}
+
+a.close-change {
+      display: inline-block;
+      width: 6rem;
+      text-align: center;
+      letter-spacing: .03rem;
+      font-size: 1rem;
+      padding: .5rem;
+      background-color: $close-button;
+      color: $white;
+      border: 3px solid $close-button-darker;
+     @include gradient-vertical($close-button-bright, $close-button, 0%, 90%);
+}
+
+a.close-change:link, a.close-change:visited {
+  color: $white;
+  @include gradient-vertical($brand-hover-orange, $close-button, 0%, 90%);
+}
+
+a.close-change:hover {
+  color: $white;
+  @include gradient-vertical($close-button-bright, $close-button, 0%, 90%);
+}
+
+div.form-toggle, div.location-alter {
+
+    a.show {
+    display: inline-block;
+    text-align: center;
+    letter-spacing: .025rem;
+   }
+} // end form-toggle

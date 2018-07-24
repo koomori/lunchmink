@@ -1,0 +1,104 @@
+
+.control {
+  font-size: 18px;
+  position: relative;
+  display: block;
+  margin-bottom: 15px;
+  padding-left: 30px;
+  cursor: pointer;
+}
+
+.control input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+
+.control__indicator {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 2rem;
+  height: 2rem;
+  background: $brand-very-light; 
+  border: 3px solid $brand-light;
+}
+
+.control--radio .control__indicator {
+  border-radius: 50%;
+}
+
+/* Hover and focus states */
+.control:hover input ~ .control__indicator,
+.control input:focus ~ .control__indicator {
+  background: $gradient-button-dark;
+}
+
+/* Checked state */
+.control input:checked ~ .control__indicator {
+  background: $brand-light;
+  border: 3px solid $brand-dark;
+}
+
+/* Hover state whilst checked */
+.control:hover input:not([disabled]):checked ~ .control__indicator,
+.control input:checked:focus ~ .control__indicator {
+  background: $brand-light;
+  border: 3px solid $brand-light;
+}
+
+/* Disabled state */
+.control input:disabled ~ .control__indicator {
+  pointer-events: none;
+  opacity: .6;
+  background: #e6e6e6;
+}
+
+/* Check mark */
+.control__indicator:after {
+  position: absolute;
+  display: none;
+  content: '';
+}
+
+/* Show check mark */
+.control input:checked ~ .control__indicator:after {
+  display: block;
+}
+
+/* Checkbox tick */
+.control--checkbox .control__indicator:after {
+  top: .15rem;
+  left: .6rem;
+  width: .5rem;
+  height: 1.25rem;
+  transform: rotate(30deg);
+  border: solid #fff;
+  border-width: 0 3px 3px 0;
+}
+
+/* Disabled tick colour */
+.control--checkbox input:disabled ~ .control__indicator:after {
+  border-color: #7b7b7b;
+}
+
+/* Radio button inner circle
+.control--radio .control__indicator:after {
+  top: .4rem;
+  left: .4rem;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: $brand-bright;
+} */
+
+/* Disabled circle colour */
+.control--radio input:disabled ~ .control__indicator:after {
+  background: #7b7b7b;
+}
+
+.number-input {
+  font-size: 1.4rem;
+  width: 4rem;
+  margin-bottom: 10px;
+}
